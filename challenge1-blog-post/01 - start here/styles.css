@@ -1,0 +1,45 @@
+/* fonts */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "PT Serif", serif;
+  text-align: center;
+  font-size: 1.125rem;
+  color: #414141;
+}
+a {
+  color: #ca5e10;
+}
+
+header {
+  width: 90%;
+  margin: auto;
+}
+
+h1 {
+  font-family: "Cinzel", serif;
+  font-size: 6rem;
+  margin: 2rem;
+  line-height: 5rem;
+}
+
+.subtitle {
+  font-size: 2.25rem;
+  color: #7d7d7d;
+  width: 60%;
+  margin: auto;
+  margin-bottom: 5rem;
+}
+
+.container {
+  width: 90%;
+  max-width: 39rem;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.lead {
+  font-size: 1.3125rem;
+}
