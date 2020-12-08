@@ -66,7 +66,6 @@ a {
   letter-spacing: 1px;
   border-radius: var(--border-radius);
   text-align: center;
-  margin-left: 62.5%;
   padding: 0.5rem;
 }
 
@@ -91,6 +90,10 @@ a {
 
 .candidate {
   padding: 0.75rem;
+}
+
+.candidate .btn {
+  margin-left: 62.5%;
 }
 
 .candidate h2 {
